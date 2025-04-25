@@ -39,15 +39,4 @@ These are some technologies I've experience and I've used:
 </p>
 
 ## 🎶 My music taste 
-const playlistId = '3nm5E8sTzoSaC8KTYK8BXC';
-
-<iframe
-  title="Spotify Embed: Recommendation Playlist "
-  src={`https://open.spotify.com/embed/playlist/3nm5E8sTzoSaC8KTYK8BXC?utm_source=generator&theme=0`}
-  width="100%"
-  height="100%"
-  style={{ minHeight: '360px' }}
-  frameBorder="0"
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy"
-/>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3nm5E8sTzoSaC8KTYK8BXC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
