@@ -21,20 +21,17 @@ These are some technologies I've experience and I've used:
 
 <p align="left">
   <img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=000000&label=" height="28" style="border-radius: 6px;" alt="JavaScript" />
-    <span style="display: inline-flex; align-items: center; height: 28px; background-color: #f89820; color: white; padding: 0 8px; border-radius: 6px; font-family: sans-serif; font-size: 14px;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" height="20" style="margin-right: 6px;" />
-  Java
-  </span>
+  <img src="https://img.shields.io/badge/Java-f89820?style=flat&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Java" />
   <img src="https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="C++" />
   <img src="https://img.shields.io/badge/-3178C6?style=flat&logo=typescript&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Python" />
   <img src="https://img.shields.io/badge/Excel-217346?style=flat" height="28" style="border-radius: 6px;" alt="Excel" />
-  <img src="https://img.shields.io/badge/-4479A1?style=flat&logo=postgresql&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat" height="28" style="border-radius: 6px;" alt="SQL" />
   <img src="https://img.shields.io/badge/-02569B?style=flat&logo=flutter&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Flutter" />
   <img src="https://img.shields.io/badge/-47A248?style=flat&logo=mongodb&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-336791?style=flat&logo=postgresql&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-0078D4?style=flat&logo=azuredevops&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Azure" />
-  <img src="https://img.shields.io/badge/-000000?style=flat&logo=fastify&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Express (Fastify logo usado como alternativa)" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azuredevops&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Azure" />
+  <img src="https://img.shields.io/badge/-000000?style=flat&logo=fastify&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Express" />
   <img src="https://img.shields.io/badge/-61DAFB?style=flat&logo=react&logoColor=000000&label=" height="28" style="border-radius: 6px;" alt="React" />
   <img src="https://img.shields.io/badge/-1572B6?style=flat&logo=css3&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="CSS3" />
   <img src="https://img.shields.io/badge/-E34F26?style=flat&logo=html5&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="HTML5" />
