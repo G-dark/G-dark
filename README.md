@@ -39,4 +39,5 @@ These are some technologies I've experience and I've used:
 </p>
 
 ## 🎶 My music taste 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nm5E8sTzoSaC8KTYK8BXC)
+
+[![Playlist de Spotify]([https://i.scdn.co/image/ab67706c0000da84a5d841e0faebba262a89faee](https://upload.wikimedia.org/wikipedia/en/7/70/Graduation_%28album%29.jpg))](https://open.spotify.com/playlist/3nm5E8sTzoSaC8KTYK8BXC)
