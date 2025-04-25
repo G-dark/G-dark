@@ -40,5 +40,4 @@ These are some technologies I've experience and I've used:
 
 ## 🎶 My music taste 
 
-[![Playlist de Spotify](![image](https://github.com/user-attachments/assets/37504abb-07c3-4be6-a15a-6378838d4032)
-)](https://open.spotify.com/playlist/3nm5E8sTzoSaC8KTYK8BXC)
+[![Playlist de Spotify](https://upload.wikimedia.org/wikipedia/en/7/70/Graduation_%28album%29.jpg)](https://open.spotify.com/playlist/3nm5E8sTzoSaC8KTYK8BXC) 
