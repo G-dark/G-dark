@@ -21,12 +21,14 @@ These are some technologies I've experience and I've used:
 
 <p align="left">
   <img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=000000&label=" height="28" style="border-radius: 6px;" alt="JavaScript" />
- <img src="https://img.shields.io/badge/-f89820?style=flat&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Java" />
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="28" style="margin-left: -8px; vertical-align: middle;" alt="Java Coffee Logo" />
+    <span style="display: inline-flex; align-items: center; height: 28px; background-color: #f89820; color: white; padding: 0 8px; border-radius: 6px; font-family: sans-serif; font-size: 14px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" height="20" style="margin-right: 6px;" />
+  Java
+  </span>
   <img src="https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="C++" />
   <img src="https://img.shields.io/badge/-3178C6?style=flat&logo=typescript&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Python" />
-  <img src="https://img.shields.io/badge/-217346?style=flat&logo=microsoftexcel&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Excel" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat" height="28" style="border-radius: 6px;" alt="Excel" />
   <img src="https://img.shields.io/badge/-4479A1?style=flat&logo=postgresql&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="SQL" />
   <img src="https://img.shields.io/badge/-02569B?style=flat&logo=flutter&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Flutter" />
   <img src="https://img.shields.io/badge/-47A248?style=flat&logo=mongodb&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="MongoDB" />
