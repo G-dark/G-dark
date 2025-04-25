@@ -31,7 +31,7 @@ These are some technologies I've experience and I've used:
   <img src="https://img.shields.io/badge/-47A248?style=flat&logo=mongodb&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-336791?style=flat&logo=postgresql&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azuredevops&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Azure" />
-  <img src="https://img.shields.io/badge/-000000?style=flat&logo=fastify&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Express" />
+  <img src="https://img.shields.io/badge/-000000?style=flat&logo=express&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Express" />
   <img src="https://img.shields.io/badge/-61DAFB?style=flat&logo=react&logoColor=000000&label=" height="28" style="border-radius: 6px;" alt="React" />
   <img src="https://img.shields.io/badge/-1572B6?style=flat&logo=css3&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="CSS3" />
   <img src="https://img.shields.io/badge/-E34F26?style=flat&logo=html5&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="HTML5" />
