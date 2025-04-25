@@ -5,11 +5,11 @@
 ## Helo there 👋
 
 
-## About me 
+## 📃 About me 
 
 I am a constant learner, I try to improve by all means and I never give up on my mission. I'm a tenth semester systems engineering student and I'm passionate about full-stack development, <br/>
 or rather, I'm passionate about software development. I don't limit myself to web solutions, as you can see, I like mobile development too, but that's something new for me yet. <br/>
-I love to be creative in my Work, in everything, sometimes the boring and tried-and-tested manner to do something is not always the best solution. I try to embrace to the best practices <br/>
+I love to be creative in my Work, in everything, sometimes the boring and tried-and-tested manner to do something is not always the best solution. I try to embrace to the best practices 
 at the time of coding. <br/>
 
  🔭 I'm currently working on improve all my skills and get new ones <br/>
@@ -37,3 +37,17 @@ These are some technologies I've experience and I've used:
   <img src="https://img.shields.io/badge/-E34F26?style=flat&logo=html5&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="HTML5" />
   <img src="https://img.shields.io/badge/-0175C2?style=flat&logo=dart&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Dart" />
 </p>
+
+## 🎶 My music taste 
+const playlistId = '3nm5E8sTzoSaC8KTYK8BXC';
+
+<iframe
+  title="Spotify Embed: Recommendation Playlist "
+  src={`https://open.spotify.com/embed/playlist/3nm5E8sTzoSaC8KTYK8BXC?utm_source=generator&theme=0`}
+  width="100%"
+  height="100%"
+  style={{ minHeight: '360px' }}
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+/>
