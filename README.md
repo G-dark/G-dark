@@ -39,5 +39,9 @@ These are some technologies I've experience and I've used:
 </p>
 
 ## 🎶 My music taste 
+<p align="center">
+  <a href="https://open.spotify.com/playlist/3nm5E8sTzoSaC8KTYK8BXC">
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/70/Graduation_%28album%29.jpg" width="100" />
+  </a>
+</p>
 
-[![Playlist de Spotify](https://upload.wikimedia.org/wikipedia/en/7/70/Graduation_%28album%29.jpg)](https://open.spotify.com/playlist/3nm5E8sTzoSaC8KTYK8BXC) 
