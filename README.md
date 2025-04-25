@@ -21,7 +21,8 @@ These are some technologies I've experience and I've used:
 
 <p align="left">
   <img src="https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=000000&label=" height="28" style="border-radius: 6px;" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-f89820?style=flat&logo=openjdk&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Java" />
+ <img src="https://img.shields.io/badge/-f89820?style=flat&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Java" />
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="28" style="margin-left: -8px; vertical-align: middle;" alt="Java Coffee Logo" />
   <img src="https://img.shields.io/badge/-00599C?style=flat&logo=c%2B%2B&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="C++" />
   <img src="https://img.shields.io/badge/-3178C6?style=flat&logo=typescript&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white&label=" height="28" style="border-radius: 6px;" alt="Python" />
