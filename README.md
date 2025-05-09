@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=G-dark&style=flat&color=blue" alt="Profile views" />
 
 
-## Helo there 👋
+## Hello there 👋
 
 
 ## 📃 About me 
