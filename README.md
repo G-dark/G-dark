@@ -7,7 +7,7 @@
 
 ## 📃 About me 
 
-I am a constant learner, I try to improve by all means and I never give up on my mission. I'm a tenth semester systems engineering student and I'm passionate about full-stack development, <br/>
+I am a constant learner, I try to improve by all means and I never give up on my mission. I'm a systems engineer and I'm passionate about full-stack development, <br/>
 or rather, I'm passionate about software development. I don't limit myself to web solutions, as you can see, I like mobile development too, but that's something new for me yet. <br/>
 I love to be creative in my Work, in everything, sometimes the boring and tried-and-tested manner to do something is not always the best solution. I try to embrace to the best practices 
 at the time of coding. <br/>
